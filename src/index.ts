@@ -4,7 +4,7 @@ const app = express();
 const PORT = 3000;
 
 app.get('/', (req: Request, res: Response) => {
-    res.json({ mensaje: 'EV 1 DevOps corriendo :-)' });
+    res.json({ mensaje: 'Evaluación 1 de DevOps corriendo correctamente.' });
 });
 
 app.listen(PORT, () => {
