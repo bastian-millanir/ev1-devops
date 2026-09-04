@@ -53,11 +53,13 @@ Node.js y Express.js, por lo que me fue fácil entender la configuración del wo
 ### Sofia Huichulef
 
 **¿Que hice en este proyecto?**
-cree una rama hotfix para simular un brug critico,hice el commit,abri el PR y espere la aprobacion de mi compañero antes de mergear a main.
+cree una rama hotfix para simular un brug critico del proyecto,hice el commit,abri el PR y espere la aprobacion de mi compañero antes de mergear a la rama main. Participe en el proceso de revision del pull request de mi compañero,verificando los cambios. tambien genere la rama para adicionar el readme destinada a documentar el proyecto que editamos con mi compañero, incorporamos informacion sobre el desarrollo de este y la experiencia de trabajo.
 
 **¿Que aprendi ?**
+aprendi que los PR son el control de calidad ya que una segunda persona revisa que los cambios tengan sentido y que no rompa nada, ademas que las ramas que se crean deben tener un nombre especifico segun lo que se va a realizar como las nuevas funcionalidades o arreglos que es necesario crea un nombre adecuado para cada rama que se integra y no tenia nocion de que se podia asignar una persona especifica para el review de la rama hasta ahora. Que el workflow en github ayuda a automatizar procesos repetitivos y que es una buena practica implementar en el proyecto en CI/CD y el sistema de control de versiones para tener respaldo mayor hacia el proyecto.
 
 **¿Que dificultad tuve y como la resolvi?**
+No siento que esta primera entrega fuera tan dificil como para presentarme dificultades no vista anteriormente en otros ramos ya que igual eh trabajado con la creacion de ramas en otros proyectos y el git bash. Pero pude comprender mejor el proposito de los pull requestes y para el flujo de trabajo.
 
 
 ## Estrategia de revision
